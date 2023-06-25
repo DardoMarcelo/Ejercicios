@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;900&display=swap');
+
+@font-face {
+    font-family: mifuente;
+    src: url(../fonts/Mulish-Regular.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: mifuente;
+    src: url(../fonts/Mulish-Bold.ttf);
+    font-weight: 200;
+}
+
+section{
+    padding: 50px;
+    margin: 20px;
+}
+
+h2{
+    font-family:mifuente;
+    font-weight: 300;
+    color: #0a2ff1;
+    font-size: 30px;
+}
+
+h1{
+    font-family: 'Mulish', sans-serif;
+    color: #0a2ff1;
+    font-size: 60px;
+}
+
+p{
+    font-family: mifuente;
+    font-weight: 300;
+    color: #04146c;
+    font-size: 20px;
+}
+
+button{
+    font-family: mifuente;
+    font-weight: 200;
+    font-size: 14px;
+    color: white;
+    width: 140px;
+    height: 35px;
+    background-color: #0a2ff1;
+}

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: mifuente;
+    src: url(../Fonts/Mulish-Black.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: mifuente;
+    src: url(../Fonts/Mulish-Bold.ttf);
+    font-weight: 300;
+}
+
+h1{
+    font-family: mifuente;
+    font-weight: 200;
+    color: #04146c;
+    font-size: 40px;
+}
+
+.divprincipal{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.divs{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(87, 85, 85);
+    width: 250px;
+    height: 290px;
+}
+
+p{
+    font-family: mifuente;
+    font-weight: 300;
+    font-size: 20px;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    background-color: #0a2ff1;
+    color: white;
+}
+
